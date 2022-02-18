@@ -1,5 +1,8 @@
 # hid_mimouse
 Fixes Mi Silent Mouse side buttons.
+## Prerequisites (on Ubuntu, Debian)
+    $ sudo apt install build-essential linux-headers-generic dkms
+(If you use a non-generic kernel, you should install the headers for that. DKMS is optional.)
 ## Building
     $ make
 ## Installing
