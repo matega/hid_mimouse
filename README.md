@@ -1,3 +1,8 @@
+# ARCHIVED
+This fix was mainlined a couple of months after I published this. You shouldn't need to build this module by hand any more.
+
+https://github.com/torvalds/linux/blob/master/drivers/hid/hid-xiaomi.c
+
 # hid_mimouse
 Fixes Mi Silent Mouse side buttons.
 ## Prerequisites (on Ubuntu, Debian)
